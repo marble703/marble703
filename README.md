@@ -1,5 +1,11 @@
 #
 
+## Here is marble703
+
+- Undergraduate student in HDU, majoring in Artificial Intelligence  
+- Member of CV group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX)  
+- Email 703342335@qq.com
+
 ## 📊 GitHub Stats
 
 <p align="center">
