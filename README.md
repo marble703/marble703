@@ -16,5 +16,3 @@
 <p align="center">
 <img width=800 src="https://github-readme-activity-graph-dun.vercel.app/graph?username=marble703&theme=github-compact&hide_border=true&area=true" />
 </p>
-
-![](https://github-readme-stats-eight-phi-34.vercel.app/api/?username=marble703&show_icons=true&theme=dracula)
