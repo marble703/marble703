@@ -1,9 +1,7 @@
-#
-
 ## Here is marble703
 
-- Undergraduate student in HDU, majoring in Artificial Intelligence  
-- Member of CV group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX)  
+- Undergraduate student in HDU, majoring in Artificial Intelligence
+- Member of CV group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX)
 - Email 703342335@qq.com
 
 ## 📊 GitHub Stats
@@ -16,5 +14,7 @@
 <p align="center">
 <img width=800 src="https://github-readme-activity-graph-dun.vercel.app/graph?username=marble703&theme=github-compact&hide_border=true&area=true" />
 </p>
+
+![metrics.plugin.languages.details](./metrics.plugin.languages.details.svg)
 
 ![github-metrics.svg](./github-metrics.svg)
