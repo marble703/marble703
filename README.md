@@ -18,3 +18,5 @@
 ![metrics.plugin.languages.details](./metrics.plugin.languages.details.svg)
 
 ![github-metrics.svg](./github-metrics.svg)
+
+![metrics.plugin.anilist.characters](./metrics.plugin.anilist.characters.svg)
