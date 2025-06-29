@@ -2,6 +2,7 @@
 
 - Undergraduate student in HDU, majoring in Artificial Intelligence
 - Member of CV group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX)
+- Group Leader of the Sentry Unit, HDU-PHOENIX ROBOMASTER Team, 2024
 - Email 703342335@qq.com
 
 ## 📊 GitHub Stats
@@ -18,5 +19,3 @@
 ![metrics.plugin.languages.details](./metrics.plugin.languages.details.svg)
 
 ![github-metrics.svg](./github-metrics.svg)
-
-![metrics.plugin.anilist.characters](./metrics.plugin.anilist.characters.svg)
