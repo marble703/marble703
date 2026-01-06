@@ -21,23 +21,23 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="186.8996575620162" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="186.8996575620162" y="0" width="186.30811517725897" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="373.2077727392752" y="0" width="82.6911217702817" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="455.8988945095569" y="0" width="4.101105490443132" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="190.2423369929966" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="190.2423369929966" y="0" width="184.21304260954656" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="374.45537960254313" y="0" width="81.502466814556" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="455.9578464170992" y="0" width="4.042153582900851" height="8" fill="#dea584"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#DA5B0B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Jupyter Notebook
+                                C++
                             </div>
                             <small>
-                                <div>390 kB</div>
-                                <div>40.63%</div>
+                                <div>403 kB</div>
+                                <div>41.36%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -49,7 +49,7 @@
                             </div>
                             <small>
                                 <div>172 kB</div>
-                                <div>17.98%</div>
+                                <div>17.72%</div>
                             </small>
                         </div>
                     </section>
@@ -57,13 +57,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#DA5B0B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                C++
+                                Jupyter Notebook
                             </div>
                             <small>
-                                <div>389 kB</div>
-                                <div>40.5%</div>
+                                <div>390 kB</div>
+                                <div>40.05%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -75,7 +75,7 @@
                             </div>
                             <small>
                                 <div>8.58 kB</div>
-                                <div>0.89%</div>
+                                <div>0.88%</div>
                             </small>
                         </div>
                     </section>
