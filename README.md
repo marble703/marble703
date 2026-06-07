@@ -3,6 +3,7 @@
 - Undergraduate student in HDU, majoring in Artificial Intelligence
 - Member of CV group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX)
 - Group Leader of the Sentry Unit, HDU-PHOENIX ROBOMASTER Team, 2024
+- Quality Management, HDU-PHOENIX ROBOMASTER Team, 2025
 - Email 23070626@hdu.edu.cn
 
 ## 📊 GitHub Stats
